@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "userId": "109256780493714578230",
+      "id": 20,
+      "title": "black post",
+      "description": "was nothing",
+      "content": "it was an empty space"
+    },
+    {
+      "title": "learning new language",
+      "description": "lets learn mobile programming",
+      "content": "lets learn flutter for android and ios",
+      "userId": "109256780493714578230",
+      "id": 21
+    },
+    {
+      "title": "play a new game",
+      "description": "playing lol",
+      "content": "we started playing league",
+      "userId": "109256780493714578230",
+      "id": 22
+    }
+  ]
+}
